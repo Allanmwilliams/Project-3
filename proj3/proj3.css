@@ -1,0 +1,13 @@
+.movie {
+    cursor:pointer;
+
+}
+
+.movie:hover {
+    color:blue;
+    text-decoration:underline;
+    background-color: black
+}
+body{
+    background-color: silver;
+}
